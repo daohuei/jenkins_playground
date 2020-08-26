@@ -1,5 +1,7 @@
 # kd_world
 
+Self Project of personal website, but before that, it is for practice for AdminGryphon
+
 ## Project setup
 ```
 npm install
